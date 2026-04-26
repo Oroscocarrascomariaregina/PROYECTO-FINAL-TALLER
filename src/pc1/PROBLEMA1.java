@@ -4,12 +4,11 @@
  */
 package pc1;
 import java.util.Scanner;
-
 /**
  *
  * @author Maria Orosco
  */
-public class PC1 {
+public class PROBLEMA1 {
 
     /**
      * @param args the command line arguments
@@ -52,3 +51,4 @@ public class PC1 {
         System.out.printf("Monto final a pagar: S/ %.2f\n", total);
     }
 }
+ 
